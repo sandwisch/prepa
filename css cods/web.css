@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.web{
+  background-color: rgb(7, 105, 105);
+    background-size:cover;
+    height: 100vh;
+    display: table;
+    width: 100vh;
+}

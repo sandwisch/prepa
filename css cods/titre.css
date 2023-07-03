@@ -1,0 +1,12 @@
+p.titre {
+    font-weight: 500px;
+    height: 100px;
+    display: block;
+    font-family: arial;
+    font-style: italic;
+    font-size: 140px;
+    padding-left: 500px;
+    padding-right: 500px;
+    margin-bottom: 80px;
+    color: white;
+  }
